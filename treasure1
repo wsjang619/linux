@@ -1,0 +1,33 @@
+Move to line 21.
+Move left 5 spaces and then move to line #12.
+Move to the end of this file.
+Move right 13 spaces and then down 20 lines.
+Move down 5 lines.
+Move down 13 lines.
+Move down 5 lines and right 5 spaces.
+Move left 4 spaces and up two lines.
+Move to line #18.
+Move left 6 spaces and then up 5 lines.
+Move to the previous occurence of the string line.
+Search for the Previous occurence of the string Locate.
+Move down 5 lines and right 5 spaces.
+Move down 2 lines.
+This is the line - JACKPOT is the word you want!
+Move up 8 lines.
+Move right 4 spaces and down 4 lines.
+Move to the end of the file.
+Move directly to line #4 - don't use the 'k' key.
+This is the line - WIN is the word you want!
+Move 9 spaces to the right and move down 2 lines.
+Move to line #10.
+Move right 4 spaces and move up 9 lines.
+Move right 12 spaces and then move up 22 lines.
+Locate the next occurence of the string file and then move down 1 line.
+Move  left 21 spaces and then move up 11 lines.
+Move down 5 lines.
+Move up two lines.
+Move right 12 spaces and then down 4 lines.
+Move left 5 spaces and then up 8 lines.
+Move to line #10.
+This is the line - BOGUS is the word you want!
+Move right 5 spaces and then up 22 lines.
