@@ -14,7 +14,7 @@ Delete from the cursor to the beginning of the line and move up 4 lines.
 This is the line - CONTACT!
 Go to line #33
 Move right 20 spaces and move up 5 lines.
-Yank the first word in this line and paste it at the beginning of the line, then move up one line.
+Yank the first word in this line and paste it at the beginning of the line, then move up 4 line.
 Move to line #4 and move right 5 spaces.
 Delete 12 lines.
 Delete this line and the next 2.
